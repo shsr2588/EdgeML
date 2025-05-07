@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Edge Deployment Classifier</string>
+
+    <string-array name="model_array">
+        <item>MobileNetV2 Quantized</item>
+        <item>ResNet50 Quantized</item>
+        <item>MobileNetV2</item>
+        <item>ResNet50</item>
+    </string-array>
+</resources>
